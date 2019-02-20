@@ -5,16 +5,16 @@ public class InputConsol {
        Scanner input = new Scanner (System.in);
 
        String day,mouht;
-        System.out.println("Какой сегодня день ?");
+        System.out.println(" Какой сегодня день? ");
         day=input.nextLine();
 
 
-        System.out.println( "Какой месяц?");
+        System.out.println( " Какой месяц? ");
         mouht=input.nextLine();
 
         String text ;
 
-        text= "сегодня - "+ day + " месяц - " + mouht;
+        text= " сегодня - "+ day + " месяц - " + mouht;
 
         System.out.println(text);
 
