@@ -14,7 +14,7 @@ public class InputConsol {
 
         String text ;
 
-        text= "сегодня - "+ day + "месяц - " + mouht;
+        text= "сегодня - "+ day + " месяц - " + mouht;
 
         System.out.println(text);
 
