@@ -1,6 +1,5 @@
 public class Base {
     public static void main(String[] args) {
-        //System.out.println( "Hellow world!!!");
 
         int a = 50;
         int b = 15;
@@ -27,3 +26,4 @@ public class Base {
     }
 
 }
+
