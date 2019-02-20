@@ -15,12 +15,12 @@ public class Base {
         int i = 0;
         System.out.println("инкремент ++i = " + (++i));
         System.out.println("инкремент --i = " + (--i));
-        System.out.println("a<b = " + (a<b));
-        System.out.println("a>b = " + (a>b));
-        System.out.println("a>=b = " + (a>=b));
-        System.out.println("a<=b = " + (a<=b));
-        System.out.println("a==b = " + (a==b));
-        System.out.println("a!=b = " + (a!=b));
+        System.out.println("a < b = " + (a<b));
+        System.out.println("a > b = " + (a>b));
+        System.out.println("a >= b = " + (a>=b));
+        System.out.println("a <= b = " + (a<=b));
+        System.out.println("a == b = " + (a==b));
+        System.out.println("a != b = " + (a!=b));
 
 
     }
