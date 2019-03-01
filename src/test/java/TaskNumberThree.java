@@ -10,10 +10,10 @@ public class TaskNumberThree {
             if (a >= 25 & a <= 100)
                 System.out.println("Число " + a + " попало в интервал от 25 до 100");
             else
-                System.out.println("Число " + a + " не попало в интервал от 25 до 100");
+                System.out.println("Число " + a + " НЕ попало в интервал от 25 до 100");
 
         } else
-            System.out.println("Число " + a + " не из отрезка от 5 до 155");
+            System.out.println("Число " + a + " НЕ из отрезка от 5 до 155");
 
     }
 }
